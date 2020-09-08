@@ -1,0 +1,468 @@
+@media all and (max-width:992px) {
+    
+    .logo {
+        width: 80px;
+        margin-top: 21px;
+    }
+    
+    .main-wrapper {
+        padding: 260px 0 0 480px;
+        height: 800px;
+    }
+    
+    .main-wrapper a {
+        font-size: 17px;
+        margin: 100px 0 0 0;
+    }
+    
+    .main-message {
+        padding: 130px 0;
+
+    }
+        
+    .style-text h2 {
+        font-size: 28px;
+    }
+    
+    .style-text p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    
+    .style-voice h2 {
+        font-size: 28px;
+        margin: 10px 0 0 15px;
+    }
+    
+    .speak {
+        position: absolute;
+        top: 10%;
+        width: 100%;
+        height: 400px;
+    }
+    
+    .coment p {
+        position: relative;
+        font-size: 14px;
+        line-height: 25px;
+        margin-bottom: 10px;
+    }
+    
+    .coment {
+        margin: 90px 10px 0 70px;
+        padding-bottom: 100px;
+    }
+
+    .four-merit h2 {
+        font-size: 42px; 
+    }
+    
+    .four-merit span {
+        font-size: 100px;
+    }
+    
+    .merit-icon p {
+        font-size: 80px;
+    }
+    
+    .merit-p h4 {
+        font-size: 28px;
+    }
+    
+    .merit-p p {
+        font-size: 18px;
+    }
+    
+    .services h2 {
+        font-size: 42px; 
+    }
+    
+    .fa-check {
+        font-size: 48px;
+    }
+    
+    .service-icon {
+        margin-top: 40px;
+    }
+    
+    div#cost h2 {
+        font-size: 42px; 
+    }
+    
+    .membership {
+        margin: 0 15px 0 0;
+    }
+    
+    .payment {
+        margin: 0 0 0 15px ;
+    }
+    
+    .membership h4,.payment h4 {
+        font-size: 30px;
+    }
+
+    .pay span {
+        font-size: 26px;
+        
+    }
+    
+    .attention {
+        font-size: 15px;
+    }
+    
+    div#Enrollment h2 {
+        font-size: 42px; 
+    }
+    
+    .step {
+        font-size: 28px;
+    }
+    
+    div#Enrollment span {
+        font-size: 100px;
+    }
+    
+    .flow-icon p {
+        font-size: 80px;    
+    }
+    
+    .flow-p h4 {
+        font-size: 28px;
+    }
+    
+    .flow-p p {
+        font-size: 18px;
+    }
+    
+    div#question h2 {
+        font-size: 42px; 
+    }
+
+    .text-muted p {
+        font-size: 17px;
+    }
+    
+    div#contact h2 {
+        font-size: 42px; 
+    }
+    
+    .contact-mail,.contact-line{
+        margin: 0 15px;
+    
+    }
+    
+    .contact-mail h4,.contact-line h4 {
+        font-size: 25px;
+        border: 4px solid  rgb(38, 139, 206);
+        box-shadow: 7px 7px  rgb(15, 82, 128);
+        padding: 20px 0;
+    }
+    
+    .contact-mail a {
+        font-size: 22px;
+    }
+    
+    .contact-icon {
+        width: 70px;
+    }
+    
+    .contact-line a {
+        font-size: 22px;
+    }
+    
+    .tap {
+        font-size: 18px;
+    }
+    
+    .footer-left {
+        float: left;
+        width: 50%;
+    }
+    
+    .f-info {
+        font-size: 15px;
+    }
+    
+    .footer-left img {
+        width: 200px;
+        margin-top: 450px;
+    }
+    
+    .footer-right {
+        float: right;
+        width: 50%;
+    }
+    
+
+    .add {
+        font-size: 40px;
+    }
+    
+
+}
+
+
+
+
+
+@media all and (max-width:768px) {
+    
+    .main-wrapper {
+        padding: 500px 0 0 200px;
+        height: 650px;
+    }
+    
+    .main-wrapper h1 {
+        color: rgba(0, 0, 0, 0.7);
+        float: right;
+        background-color: white;
+        font-size: 30px;
+        padding: 5px 10px;
+        border-radius: 5px;
+        
+    }
+    
+    .main-wrapper a {
+        display: none;
+    }
+    
+    .main-message {
+        padding: 100px 0;
+    }
+    
+    .style-text {
+        padding: 50px 0;
+    }
+    
+    .style-text h2 {
+        font-size: 36px;
+        text-align: center;
+    }
+    
+    .style-text p {
+        font-size: 20px;
+        line-height: 30px;
+        padding: 0 40px;
+    }
+    
+    .style-voice {
+        padding: 30px 0;
+    }
+    
+    .style-voice h2 {
+        font-size: 28px;
+        text-align: center;
+    }
+    
+    .coment p {
+        padding: 40px 20px 50px 0 ;
+        font-size: 16px;
+        line-height: 28px;
+        margin: 0 auto;
+    }
+    
+    .coment {
+        margin: 90px 0 0 77px;
+        padding-bottom: 80px;
+    }
+    
+    .four-merit h2 {
+        font-size: 34px; 
+    }
+    
+    .four-merit span {
+        font-size: 70px;
+    }
+    
+    .merit-icon p {
+        font-size: 60px;
+    }
+    
+    .merit-p h4 {
+        font-size: 18px;
+    }
+    
+    .merit-p p {
+        font-size: 14px;
+    }
+    
+    .services h2 {
+        font-size: 34px; 
+        
+    }
+    
+    .fa-check {
+        font-size: 40px;
+    }
+    
+    .service-icon h4 {
+        font-size: 18px;
+    }
+    
+    .service-icon p {
+        font-size: 14px;
+    }
+    
+    div#cost {
+        padding: 100px 0 50px 0;
+    }
+
+    div#cost h2 {
+        font-size: 34px; 
+    }
+    
+    .cost-wrapper {
+        display: block;
+    }
+    
+    .membership {
+        padding: 30px 0;
+        margin:0 15px 15px 0;
+        width: 100%;
+    }
+    
+    .payment {
+        padding: 30px 0;
+        margin:15px 15px 0 0;
+        width: 100%;
+    }
+    
+    .membership h4,.payment h4 {
+        font-size: 28px;        
+    }
+    
+    .pay span {
+        font-size: 26px;
+    }
+    
+    .attention {
+        padding: 50px 30px;
+        color: white;
+    }
+    
+    div#Enrollment {
+        padding: 140px 0;
+    }
+    
+    div#Enrollment h2 {
+        font-size: 34px; 
+    }
+    
+    .step {
+        font-size: 22px;
+    }
+    
+    div#Enrollment span {
+        font-size: 80px;
+    }
+    
+    .flow-icon p {
+        font-size: 60px;
+    }
+    
+    .flow-p h4 {
+        font-size: 18px;
+    }
+    
+    .flow-p p {
+        font-size: 14px;    
+    }
+    
+    div#question {
+        padding: 100px 0;    
+        background-color: rgb(38, 139, 206);
+    }
+    
+    div#question h2 {
+        font-size: 34px; 
+    }
+    
+    .dropdown {
+        margin-bottom: 30px;
+    }
+    
+    button#dropdownMenuButton {
+        width: 100%;
+        padding: 20px;
+        font-size: 16px;
+    }
+    
+    .text-muted p {
+        font-size: 16px;
+    }
+    
+    div#contact {
+        padding: 100px 0;
+    }
+    
+    div#contact h2 {
+        font-size: 34px; 
+    }
+    
+    .contact-wrapper {
+        display: block;
+    }
+    
+    .contact-mail,.contact-line{
+        margin: 0 15px 40px 0;
+        width: 100%;
+    }
+    
+    .contact-mail h4,.contact-line h4 {
+        font-size: 24px;
+        margin-bottom: 30px;
+        padding: 14px 0;
+    }
+    
+    .contact-mail a {
+        font-size: 24px;
+    }
+    
+    .fa-envelope {
+        padding-bottom: 16px;
+    }
+    
+    .contact-icon {
+        width: 70px;
+    }
+    
+    .contact-line a {
+        font-size: 22px;
+    }
+    
+    .tap {
+        font-size: 16px;
+        margin-top: 40px;
+    }
+    
+    footer {
+        padding: 30px 0;
+    }
+    
+    .footer-left {
+        clear: both;
+        width: 100%;
+    }
+    
+    .f-info {
+        font-size: 25px;
+        line-height:50px;
+        text-align: center;
+    }
+    
+    .footer-left img {
+        margin: 100px 0 30px 0;
+        width: 100%;
+    }
+    
+    .footer-right {
+        clear: both;
+        width: 100%;
+    }
+
+
+    .add {
+        font-size: 30px;
+    }
+    
+}
