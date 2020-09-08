@@ -199,7 +199,7 @@
 @media all and (max-width:768px) {
     
     .main-wrapper {
-        padding: 350px 0 0 140px;
+        padding: 350px 0 0 0;
         height: 650px;
     }
     
