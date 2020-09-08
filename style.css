@@ -71,7 +71,7 @@ header {
 }
 
 .main-message {
-    padding: 150px 0;
+    padding: 130px 0;
 }
 
 .style-text {
@@ -91,34 +91,26 @@ header {
 }
 
 .style-voice {
-    padding: 50px 0;
+    padding-top: 25px;
     color: rgb(77, 77, 77);
 }
 
 .style-voice h2 {
     font-weight: bold;
     font-size: 35px;
-    margin: 30px 0 0 15px;
-}
-
-.speak {
-    position: absolute;
-    top: 10%;
-    width: 100%;
-    height: 350px;
-
+    margin: 30px 0 0 0;
 }
 
 .coment p {
-    position: relative;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 31px;
 }
 
 .coment {
-    margin: 90px 10px 0 70px;
-    padding-bottom: 80px;
+    margin: 90px 0 0 0;
+    padding-bottom: 30px;
 }
+
 
 .four-merit {
     padding: 120px 0;
