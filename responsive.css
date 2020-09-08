@@ -199,7 +199,7 @@
 @media all and (max-width:768px) {
     
     .main-wrapper {
-        padding: 500px 0 0 200px;
+        padding: 350px 0 0 180px;
         height: 650px;
     }
     
@@ -226,7 +226,7 @@
     }
     
     .style-text h2 {
-        font-size: 36px;
+        font-size: 22px;
         text-align: center;
     }
     
@@ -241,7 +241,7 @@
     }
     
     .style-voice h2 {
-        font-size: 28px;
+        font-size: 22px;
         text-align: center;
     }
     
@@ -258,7 +258,7 @@
     }
     
     .four-merit h2 {
-        font-size: 34px; 
+        font-size: 28px; 
     }
     
     .four-merit span {
@@ -278,7 +278,7 @@
     }
     
     .services h2 {
-        font-size: 34px; 
+        font-size: 28px; 
         
     }
     
@@ -299,7 +299,7 @@
     }
 
     div#cost h2 {
-        font-size: 34px; 
+        font-size: 28px; 
     }
     
     .cost-wrapper {
@@ -336,7 +336,7 @@
     }
     
     div#Enrollment h2 {
-        font-size: 34px; 
+        font-size: 28px; 
     }
     
     .step {
@@ -365,7 +365,7 @@
     }
     
     div#question h2 {
-        font-size: 34px; 
+        font-size: 28px; 
     }
     
     .dropdown {
@@ -387,7 +387,7 @@
     }
     
     div#contact h2 {
-        font-size: 34px; 
+        font-size: 28px; 
     }
     
     .contact-wrapper {
@@ -453,7 +453,7 @@
 
 
     .add {
-        font-size: 30px;
+        font-size: 26px;
     }
     
 }
